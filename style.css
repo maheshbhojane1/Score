@@ -1,0 +1,9 @@
+body {
+    min-width: 300px;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+li {
+    list-style: none;
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Score",
+    "version": "1.0",
+    "description": "Check Cricket Score",
+    "manifest_version": 3,
+    "action" : {
+        "default_popup" : "index.html"
+    },
+    "icons" : {
+        "32" : "/image/logo.png"
+    }
+  }
